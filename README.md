@@ -1,2 +1,2 @@
 # keymaps
-my custom QMK ketmaps
+A repo of experimental custom QMK ketmaps.
